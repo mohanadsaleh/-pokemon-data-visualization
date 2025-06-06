@@ -23,10 +23,3 @@ This project presents a comprehensive data analysis and visualization of Pokémo
 
 ## 📈 Purpose
 This notebook serves as a practice in data visualization and storytelling through visual analytics. It is suitable for students learning **Data Science**, especially **Data Visualization with Seaborn**.
-
-## 📷 Sample Output
-
-![Sample](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pokémon_logo.svg/2560px-Pokémon_logo.svg.png)
-
-## ✅ Author
-Mohanad777m
